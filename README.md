@@ -16,7 +16,11 @@ I'm Rafael Gandionco. I'm a web/ios developer, and photographer from the Philipp
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
-![Typescript](https://img.shields.io/badge/Arc-FCBFBD.svg?style=for-the-badge&logo=Arc&logoColor=black)
+![Arc](https://img.shields.io/badge/Arc-FCBFBD.svg?style=for-the-badge&logo=Arc&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-ffffff.svg?style=for-the-badge&logo=Notion&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-ec7dff.svg?style=for-the-badge&logo=Figma&logoColor=white)
+
+
 
 
 
