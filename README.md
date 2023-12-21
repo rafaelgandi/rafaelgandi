@@ -19,7 +19,7 @@ See: https://shields.io/badges
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
-![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions%20V3-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Chrome Extensions MV3](https://img.shields.io/badge/Extensions%20Manifest%20V3-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Arc](https://img.shields.io/badge/Arc-FCBFBD.svg?style=for-the-badge&logo=Arc&logoColor=black)
 ![Things](https://img.shields.io/badge/%F0%9F%93%A5%20Things%203-blue?style=for-the-badge)
 ![Notion](https://img.shields.io/badge/Notion-ffffff.svg?style=for-the-badge&logo=Notion&logoColor=black)
