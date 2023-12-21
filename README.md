@@ -24,6 +24,7 @@ See: https://shields.io/badges
 ![Arc](https://img.shields.io/badge/Arc-FCBFBD.svg?style=for-the-badge&logo=Arc&logoColor=black)
 ![Things](https://img.shields.io/badge/%F0%9F%93%A5%20Things%203-blue?style=for-the-badge)
 ![Notion](https://img.shields.io/badge/Notion-ffffff.svg?style=for-the-badge&logo=Notion&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-1f9cf0?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-ec7dff.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![MacOS](https://img.shields.io/badge/Apple-cbd9de.svg?style=for-the-badge&logo=Apple&logoColor=black)
 
