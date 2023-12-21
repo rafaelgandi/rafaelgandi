@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rafael Gandionco. I'm a web/ios developer, and photographer from the Philippines 🌴
+I'm Rafael Gandionco. I'm a software engineer and photographer from the Philippines 🌴
 
 
 <!-- See: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#all-demos -->
@@ -19,6 +19,8 @@ I'm Rafael Gandionco. I'm a web/ios developer, and photographer from the Philipp
 ![Arc](https://img.shields.io/badge/Arc-FCBFBD.svg?style=for-the-badge&logo=Arc&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-ffffff.svg?style=for-the-badge&logo=Notion&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-ec7dff.svg?style=for-the-badge&logo=Figma&logoColor=white)
+![MacOS](https://img.shields.io/badge/Apple-cbd9de.svg?style=for-the-badge&logo=Apple&logoColor=black)
+
 
 
 
