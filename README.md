@@ -29,7 +29,9 @@ See: https://shields.io/badges
 ![MacOS](https://img.shields.io/badge/Apple-cbd9de.svg?style=for-the-badge&logo=Apple&logoColor=black)
 
 <br><br>
+<a href="https://rafaelgandi.com">
 ![www.rafaelgandi.com](https://img.shields.io/badge/www.rafaelgandi.com-329975?link=https%3A%2F%2Frafaelgandi.com%2F)
+</a>
 
 
 
