@@ -3,8 +3,8 @@
 I'm Rafael Gandionco. I'm a software engineer and photographer from the Philippines 🌴
 
 
-<!-- See: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#all-demos -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgandi&layout=compact&theme=dracula)
+<!-- See: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#all-demos 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgandi&layout=compact&theme=dracula) -->
 
 <!-- See: https://home.aveek.io/GitHub-Profile-Badges/ -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
